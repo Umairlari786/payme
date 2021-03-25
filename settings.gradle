@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "PayME"
+
+include ':app', ':blurbehindlib'
